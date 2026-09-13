@@ -1,27 +1,500 @@
-# 💫 About Me:
-Computer engineering student and developer with a strong foundation in the MERN stack and PostgreSQL, focused on building scalable, real-world applications. Experienced in problem-solving through DSA and comfortable working across backend systems, APIs, and data-driven products.<br><br>Currently exploring Generative AI, LLMs, and multi-agent systems, with an interest in creating tools that simplify workflows for creators and businesses. Passionate about combining software engineering with practical business use cases, including SaaS, analytics platforms, and automation-driven products.<br><br>Always building, experimenting, and iterating.<br>
+<h1 align="center">Hi, I'm Dev Gaglani</h1>
 
+<h3 align="center">
+Computer Engineering Student · Software Developer · AI/ML Explorer · Builder
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaglanidev/) 
+<p align="center">
+  <a href="https://github.com/Quantum-Coded">
+    <img src="https://img.shields.io/badge/GitHub-Quantum--Coded-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:dev.gaglani1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.gaglani1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Quantum-Coded&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Quantum-Coded&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Quantum-Coded&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Quantum-Coded&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Quantum-Coded&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Quantum-Coded&style=flat-square&color=blue" alt="Profile Views" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Quantum-Coded&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm **Dev Gaglani**, a Computer Engineering student at **Sardar Patel Institute of Technology (SPIT)** who enjoys building systems that sit at the intersection of **software engineering, algorithms, AI, data, and real-world applications**.
+
+I like going beyond simply making an application work — I'm interested in understanding the systems underneath it, whether that's a CPU scheduler, a GraphQL backend, a multi-agent reasoning pipeline, or a financial analytics engine.
+
+My current interests include:
+
+* 🤖 Generative AI & LLM applications
+* 🧠 Multi-agent systems and agentic workflows
+* 💻 Full-stack software engineering
+* 📊 Data analytics and visualization
+* 🧮 Data Structures & Algorithms
+* ⚙️ Operating Systems and systems programming
+* 📈 Quantitative / financial applications
+* 🔬 Research-oriented software projects
+
+I particularly enjoy projects where **the engineering problem itself is interesting** — simulation, orchestration, optimization, visualization, automation, and data-driven decision making.
+
+> **Build → Understand → Experiment → Iterate**
+
+---
+
+## 🚀 What I'm Currently Exploring
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI & Intelligent Systems
+
+* Generative AI
+* LLM applications
+* Multi-agent architectures
+* LangGraph
+* AI orchestration
+* Agent communication
+* Retrieval & vector databases
+* AI-powered developer tools
+
+</td>
+
+<td width="50%">
+
+### 🧠 Computer Science
+
+* Data Structures & Algorithms
+* Dynamic Programming
+* Graph Algorithms
+* Operating Systems
+* CPU Scheduling
+* System Design
+* Databases
+* Distributed application architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Data & Quantitative Systems
+
+* Financial analytics
+* Mathematical modelling
+* Data pipelines
+* Visualization
+* Statistical metrics
+* Performance analysis
+* Time-series data
+
+</td>
+
+<td width="50%">
+
+### 🌐 Full-Stack Engineering
+
+* React
+* Node.js
+* Express
+* FastAPI
+* PostgreSQL
+* MongoDB
+* GraphQL
+* REST APIs
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+Also experienced with:
+
+`D3.js` · `Recharts` · `Material UI` · `Framer Motion` · `Zustand` · `Apollo Client`
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+`REST APIs` · `GraphQL` · `Apollo Server` · `WebSockets`
+
+### 🗄️ Databases & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+`Supabase` · `ChromaDB` · `Pandas` · `yfinance`
+
+### 🤖 AI / Agentic Systems
+
+`LangGraph` · `LLMs` · `Groq` · `Multi-Agent Architectures` · `Vector Databases` · `RAG Concepts`
+
+### 🧰 Tools & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+</p>
+
+`Vercel` · `Render` · `Celery` · `npm` · `uv`
+
+---
+
+# ⭐ Featured Projects
+
+## 🧠 CORTEX-X — Multi-Agent Diagnostic Deliberation System
+
+**A multi-agent AI system where specialized agents collaboratively debate diagnostic hypotheses.**
+
+The project uses a courtroom-style deliberation architecture in which multiple AI agents independently reason, challenge hypotheses, and work toward a consensus.
+
+### Architecture
+
+```text
+                    ┌─────────────────────────┐
+                    │      React Frontend     │
+                    │   3D Interactive UI     │
+                    └────────────┬────────────┘
+                                 │ WebSocket / API
+                                 ▼
+                    ┌─────────────────────────┐
+                    │       FastAPI           │
+                    │    Backend Services     │
+                    └────────────┬────────────┘
+                                 │
+                                 ▼
+                    ┌─────────────────────────┐
+                    │      LangGraph          │
+                    │  Multi-Agent Workflow   │
+                    └────────────┬────────────┘
+                                 │
+             ┌───────────────────┼───────────────────┐
+             ▼                   ▼                   ▼
+       Specialist Agents     Skeptic Agent      Simulator
+             │                   │                   │
+             └───────────────────┼───────────────────┘
+                                 ▼
+                         Consensus Engine
+                                 │
+                                 ▼
+                         Diagnostic Report
+```
+
+### Tech
+
+`React` · `Vite` · `Three.js` · `Zustand` · `FastAPI` · `LangGraph` · `Groq` · `PostgreSQL` · `ChromaDB` · `Redis` · `Celery` · `WebSockets`
+
+One of my roles in the project was building the **React + Three.js frontend**, including the interactive 3D boardroom interface and visualization layer.
+
+🔗 **Repository:**
+https://github.com/Quantum-Coded/airavat-cortex
+
+---
+
+## 📊 OS Scheduling Algorithm Simulator
+
+**Interactive CPU scheduling simulator for visualizing and comparing operating-system scheduling algorithms.**
+
+Instead of treating scheduling algorithms as purely theoretical concepts, this project turns them into an interactive simulation environment.
+
+### Implemented Algorithms
+
+**Non-Preemptive**
+
+* FCFS
+* SJF
+* LJF
+* Priority
+* HRRN
+
+**Preemptive**
+
+* Round Robin
+* SRTF
+* LRJF
+* Priority Preemptive
+
+**Advanced**
+
+* Multilevel Queue
+* Multilevel Feedback Queue
+
+### Features
+
+* 🎬 Step-by-step timeline playback
+* 📊 Animated Gantt charts
+* 🔄 Multiple algorithm comparison
+* 📈 Waiting / turnaround / response-time metrics
+* ⚡ CPU utilization and throughput
+* 🔀 Context-switch tracking
+* 📥 CSV import/export
+* 📄 PDF report generation
+* 💾 Local simulation persistence
+* 🧪 Unit & integration tests
+
+### Tech
+
+`React 18` · `TypeScript` · `Vite` · `Tailwind CSS` · `D3.js` · `Zustand` · `Vitest` · `jsPDF`
+
+🔗 **Repository:**
+https://github.com/Quantum-Coded/os-scheduling-simulator
+
+🔗 **Live Demo:**
+https://os-scheduling-simulator-seven.vercel.app
+
+---
+
+## 🏆 LeetTrack — Friends Daily LeetCode Tracker
+
+A competitive dashboard designed to turn individual LeetCode practice into a **group accountability and leaderboard system**.
+
+### Features
+
+* 📊 Daily leaderboard
+* 🔥 Streak tracking
+* 📅 Monthly performance analytics
+* 🟢 Easy / Medium / Hard breakdown
+* ⚡ On-demand LeetCode data refresh
+* 🔐 Admin-protected user management
+* 🌗 Dark / light mode
+* 📱 Responsive UI
+* 💰 No paid APIs
+
+The application pulls data through LeetCode's public GraphQL interface and calculates weighted scores based on problem difficulty.
+
+### Architecture
+
+```text
+React + Vite
+     │
+     │ GraphQL
+     ▼
+Apollo Client
+     │
+     ▼
+Express + Apollo Server
+     │
+     ├──────────────► LeetCode GraphQL API
+     │
+     ▼
+Supabase PostgreSQL
+```
+
+### Tech
+
+`React 19` · `Vite` · `Apollo Client` · `Node.js` · `Express` · `GraphQL` · `Supabase` · `PostgreSQL`
+
+🔗 **Repository:**
+https://github.com/Quantum-Coded/LeetTrack
+
+---
+
+## 📈 Mutual Fund Analytics
+
+A web-based analytics platform focused on making mutual-fund performance analysis more transparent through mathematical and quantitative metrics.
+
+Instead of relying only on headline returns, the application explores metrics such as:
+
+* Absolute Return
+* CAGR
+* XIRR
+* Information Ratio
+* Benchmark comparison
+* NAV normalization
+* AUM / holdings data
+
+### Tech
+
+`React` · `Vite` · `Material UI` · `Recharts` · `Framer Motion` · `FastAPI` · `Pandas` · `pyxirr` · `yfinance`
+
+The project also includes an ETL/data-refresh workflow for collecting and caching financial data.
+
+🔗 **Repository:**
+https://github.com/Quantum-Coded/jimr-mf
+
+---
+
+## 🌐 Full-Stack Blog Platform
+
+A full-stack web application exploring the architecture of a modern content platform.
+
+The project is structured into separate frontend and backend applications, providing experience with full-stack application organization, APIs, and database-backed workflows.
+
+🔗 **Repository:**
+https://github.com/Quantum-Coded/blog-platform
+
+---
+
+# 🧩 Other Projects
+
+My repositories also include projects and experiments spanning:
+
+* Full-stack web development
+* Backend/API development
+* Data processing
+* Python development
+* JavaScript/TypeScript applications
+* Computer science coursework
+* Algorithms and problem solving
+* AI experimentation
+
+Rather than specializing in one framework, I enjoy moving between layers of a system — from **algorithms and data structures to APIs, databases, frontend interfaces, and AI orchestration**.
+
+---
+
+# 🧠 Computer Science Foundation
+
+I actively work on strengthening the fundamentals behind the applications I build.
+
+### Algorithms & Problem Solving
+
+* Data Structures
+* Dynamic Programming
+* Binary Search
+* Graph Algorithms
+* Greedy Algorithms
+* Recursion & Backtracking
+* Sliding Window
+* Two Pointers
+* Trees & Graphs
+* Linked Lists
+* Stacks & Queues
+* Complexity Analysis
+
+### Systems
+
+* Operating Systems
+* CPU Scheduling
+* Processes & Threads
+* Memory Management
+* Synchronization
+* File Systems
+* Networking fundamentals
+
+### Software Engineering
+
+* REST API design
+* GraphQL
+* Database design
+* Authentication
+* State management
+* Testing
+* Modular architecture
+* Frontend/backend separation
+* Data pipelines
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quantum-Coded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-Coded&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Quantum-Coded&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🧮 DSA × Engineering × AI
+
+I enjoy working at the intersection of three areas:
+
+```text
+                    ┌─────────────────────┐
+                    │    SOFTWARE         │
+                    │    ENGINEERING      │
+                    └──────────┬──────────┘
+                               │
+                  ┌────────────┼────────────┐
+                  │            │            │
+                  ▼            ▼            ▼
+             Algorithms      AI/ML        Systems
+                  │            │            │
+                  └────────────┼────────────┘
+                               │
+                               ▼
+                    Real-World Applications
+```
+
+The goal isn't just to learn technologies individually, but to understand how they can be combined to build useful systems.
+
+---
+
+# 🔭 What I'm Looking For
+
+I'm particularly interested in opportunities involving:
+
+* Software Engineering
+* AI/ML Engineering
+* Generative AI
+* Multi-Agent Systems
+* Backend Engineering
+* Full-Stack Development
+* Data / Analytics Engineering
+* Quantitative applications
+* Research-oriented engineering
+
+I'm especially interested in projects where there is room to **experiment, investigate, and build rather than simply implement predefined features**.
+
+---
+
+# 📚 Currently Learning
+
+```text
+├── Advanced Data Structures & Algorithms
+├── System Design
+├── Generative AI
+├── LLM Architecture
+├── Multi-Agent Systems
+├── LangGraph
+├── Data Engineering
+├── Quantitative Analytics
+└── Research-oriented Computing
+```
+
+---
+
+# 📫 Contact
+
+If you'd like to discuss a project, research idea, collaboration, internship, or just an interesting technical problem:
+
+<p align="center">
+  <a href="mailto:dev.gaglani1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dev.gaglani1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Quantum-Coded">
+    <img src="https://img.shields.io/badge/GitHub-Quantum--Coded-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Always building, experimenting, and iterating."</i>
+</p>
+
+<p align="center">
+  <sub>Built with curiosity, code, and an unreasonable number of Git commits.</sub>
+</p>
