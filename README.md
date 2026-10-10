@@ -1,500 +1,55 @@
-<h1 align="center">Hi, I'm Dev Gaglani</h1>
+<h2>Hi, I'm Dev Gaglani</h2>
 
-<h3 align="center">
-Computer Engineering Student · Software Developer · AI/ML Explorer · Builder
-</h3>
+Computer Engineering student at **SPIT Mumbai** (2028). I build things where ML has to meet real data: a fruit fly's wiring diagram, NASA lunar terrain, bank compliance, security audits.
 
-<p align="center">
-  <a href="https://github.com/Quantum-Coded">
-    <img src="https://img.shields.io/badge/GitHub-Quantum--Coded-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:dev.gaglani1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.gaglani1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Quantum-Coded&style=flat-square&color=blue" alt="Profile Views" />
-</p>
+**Open to:** SDE / ML engineering internships and roles
+**Reach me:** [dev.gaglani1@gmail.com](mailto:dev.gaglani1@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gaglanidev) · [devgaglani.in](https://devgaglani.in)
 
 ---
 
-## 👨‍💻 About Me
+### What I've built
 
-I'm **Dev Gaglani**, a Computer Engineering student at **Sardar Patel Institute of Technology (SPIT)** who enjoys building systems that sit at the intersection of **software engineering, algorithms, AI, data, and real-world applications**.
+**🪰 [Fruit Fly Connectome](https://github.com/Quantum-Coded/fruitfly)**: a real fly brain plays Wordle. No LLMs, no lookup tables.
+A 3,127-neuron learning core isolated from the ~139k-neuron FlyWire connectome (179k real synaptic connections across smell, memory and dopamine circuits), run as a frozen spiking network and guided by a bio-inspired RL loop. Letters go in as smells through 26 olfactory receptor classes, tile colours through retinotopic visual neurons, and real PAM/PPL1 dopamine neurons fire on solves. **99% win rate, 4.12 guesses on average, ~112 ms per game.**
+`PyTorch` `spiking neural networks` `REINFORCE` `FastAPI` `WebSockets` `Three.js`
 
-I like going beyond simply making an application work — I'm interested in understanding the systems underneath it, whether that's a CPU scheduler, a GraphQL backend, a multi-agent reasoning pipeline, or a financial analytics engine.
+**🌑 [LunarGPS](https://github.com/Quantum-Coded/lunar)**: Google Maps for the Moon's south pole.
+Drive a 3D rover across ~370,000 km² of real terrain built from NASA LRO/LOLA elevation, sunlight and permanent-shadow data, plus the USGS crater database. Search for ice, craters and sunlit sites, then get least-cost routes over the real slope grid. Every fact in the app links to its source.
+`Python data pipeline` `FastAPI` `Next.js` `React Three Fiber` `Docker`
 
-My current interests include:
+**🛡️ [Veridion](https://github.com/sidCodes7/VibeAudit)**: security audits built for AI-generated code · [live](https://veridion-psi.vercel.app/)
+Paste a repo and 4 agents (supply chain, secrets, access control, code quality) run 10 scanners in parallel, catching hallucinated npm/PyPI packages, leaked keys and unprotected routes. Findings stream over WebSockets, map to GDPR/SOC 2, and trace back through a Neo4j knowledge graph. A Chrome extension adds "Scan with Veridion" to any GitHub repo. Team of 3.
+`FastAPI` `asyncio` `multi-agent` `React` `PostgreSQL` `Neo4j`
 
-* 🤖 Generative AI & LLM applications
-* 🧠 Multi-agent systems and agentic workflows
-* 💻 Full-stack software engineering
-* 📊 Data analytics and visualization
-* 🧮 Data Structures & Algorithms
-* ⚙️ Operating Systems and systems programming
-* 📈 Quantitative / financial applications
-* 🔬 Research-oriented software projects
+**🏦 [SAR Narrative Generator](https://github.com/Soham-Prajapati/Hack-O-Hire)**: AI drafts of the Suspicious Activity Reports that banks write by hand (5–6 hours each).
+A 4-agent pipeline (data analyst → compliance mapper → narrator → QA validator) turns transaction alerts and KYC data into FinCEN-format narratives, with RAG over SAR templates and regulations, an XGBoost typology classifier and a full audit trail of every AI decision. **I led the LLM/RAG core** in a team of 5 for Hack-O-Hire 2026.
+`RAG` `LangChain` `Llama 3.1` `ChromaDB` `XGBoost` `FastAPI` `Docker`
 
-I particularly enjoy projects where **the engineering problem itself is interesting** — simulation, orchestration, optimization, visualization, automation, and data-driven decision making.
+<details>
+<summary><b>More projects</b></summary>
 
-> **Build → Understand → Experiment → Iterate**
-
----
-
-## 🚀 What I'm Currently Exploring
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI & Intelligent Systems
-
-* Generative AI
-* LLM applications
-* Multi-agent architectures
-* LangGraph
-* AI orchestration
-* Agent communication
-* Retrieval & vector databases
-* AI-powered developer tools
-
-</td>
-
-<td width="50%">
-
-### 🧠 Computer Science
-
-* Data Structures & Algorithms
-* Dynamic Programming
-* Graph Algorithms
-* Operating Systems
-* CPU Scheduling
-* System Design
-* Databases
-* Distributed application architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 Data & Quantitative Systems
-
-* Financial analytics
-* Mathematical modelling
-* Data pipelines
-* Visualization
-* Statistical metrics
-* Performance analysis
-* Time-series data
-
-</td>
-
-<td width="50%">
-
-### 🌐 Full-Stack Engineering
-
-* React
-* Node.js
-* Express
-* FastAPI
-* PostgreSQL
-* MongoDB
-* GraphQL
-* REST APIs
-
-</td>
-</tr>
-</table>
+- [CORTEX-X](https://github.com/Quantum-Coded/airavat-cortex): multi-agent diagnostic system where agents debate to a consensus (LangGraph, React, Three.js)
+- [OS Scheduling Simulator](https://github.com/Quantum-Coded/os-scheduling-simulator): visualize and compare CPU schedulers with Gantt charts and metrics · [live](https://os-scheduling-simulator-seven.vercel.app)
+- [LeetTrack](https://github.com/Quantum-Coded/LeetTrack): daily LeetCode leaderboard for friends via LeetCode's GraphQL API · [live](https://leet-track-three.vercel.app)
+- [Mutual Fund Analytics](https://github.com/Quantum-Coded/jimr-mf): CAGR, XIRR and Information Ratio for fund evaluation
+</details>
 
 ---
 
-# 🛠️ Tech Stack
+### Experience
 
-### 💻 Languages
+- **Software Development Intern, SPJIMR** (Jun 2026 – present): stock market simulation platform covering 500+ NSE/BSE stocks · Java, Spring Boot
+- **Computer Vision Intern, QuantumFour AI** (Jun – Aug 2026): truck licence-plate detection and OCR from video, with an adaptive pipeline that picks the best configuration · OpenCV, PyTorch
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" />
-</p>
+### Highlights
 
-### 🌐 Frontend
+EY Techathon 6.0 semi-finalist (top 57 of 1.85L+) · ITM Summerhacks 2.0 national top 10 · Vice Chairperson, NISP council at SPIT (30+ members) · Stanford ML Specialization · Codeforces 1292
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
+### Stack
 
-Also experienced with:
+**Languages** Python · Java · C/C++ · SQL · TypeScript
+**ML / AI** PyTorch · scikit-learn · XGBoost · OpenCV · LangChain · LangGraph · RAG
+**Backend & data** FastAPI · Spring Boot · Node.js · PostgreSQL · MongoDB · Neo4j · Docker
+**Frontend** React · Next.js · Three.js
 
-`D3.js` · `Recharts` · `Material UI` · `Framer Motion` · `Zustand` · `Apollo Client`
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-`REST APIs` · `GraphQL` · `Apollo Server` · `WebSockets`
-
-### 🗄️ Databases & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-`Supabase` · `ChromaDB` · `Pandas` · `yfinance`
-
-### 🤖 AI / Agentic Systems
-
-`LangGraph` · `LLMs` · `Groq` · `Multi-Agent Architectures` · `Vector Databases` · `RAG Concepts`
-
-### 🧰 Tools & Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
-`Vercel` · `Render` · `Celery` · `npm` · `uv`
-
----
-
-# ⭐ Featured Projects
-
-## 🧠 CORTEX-X — Multi-Agent Diagnostic Deliberation System
-
-**A multi-agent AI system where specialized agents collaboratively debate diagnostic hypotheses.**
-
-The project uses a courtroom-style deliberation architecture in which multiple AI agents independently reason, challenge hypotheses, and work toward a consensus.
-
-### Architecture
-
-```text
-                    ┌─────────────────────────┐
-                    │      React Frontend     │
-                    │   3D Interactive UI     │
-                    └────────────┬────────────┘
-                                 │ WebSocket / API
-                                 ▼
-                    ┌─────────────────────────┐
-                    │       FastAPI           │
-                    │    Backend Services     │
-                    └────────────┬────────────┘
-                                 │
-                                 ▼
-                    ┌─────────────────────────┐
-                    │      LangGraph          │
-                    │  Multi-Agent Workflow   │
-                    └────────────┬────────────┘
-                                 │
-             ┌───────────────────┼───────────────────┐
-             ▼                   ▼                   ▼
-       Specialist Agents     Skeptic Agent      Simulator
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 ▼
-                         Consensus Engine
-                                 │
-                                 ▼
-                         Diagnostic Report
-```
-
-### Tech
-
-`React` · `Vite` · `Three.js` · `Zustand` · `FastAPI` · `LangGraph` · `Groq` · `PostgreSQL` · `ChromaDB` · `Redis` · `Celery` · `WebSockets`
-
-One of my roles in the project was building the **React + Three.js frontend**, including the interactive 3D boardroom interface and visualization layer.
-
-🔗 **Repository:**
-https://github.com/Quantum-Coded/airavat-cortex
-
----
-
-## 📊 OS Scheduling Algorithm Simulator
-
-**Interactive CPU scheduling simulator for visualizing and comparing operating-system scheduling algorithms.**
-
-Instead of treating scheduling algorithms as purely theoretical concepts, this project turns them into an interactive simulation environment.
-
-### Implemented Algorithms
-
-**Non-Preemptive**
-
-* FCFS
-* SJF
-* LJF
-* Priority
-* HRRN
-
-**Preemptive**
-
-* Round Robin
-* SRTF
-* LRJF
-* Priority Preemptive
-
-**Advanced**
-
-* Multilevel Queue
-* Multilevel Feedback Queue
-
-### Features
-
-* 🎬 Step-by-step timeline playback
-* 📊 Animated Gantt charts
-* 🔄 Multiple algorithm comparison
-* 📈 Waiting / turnaround / response-time metrics
-* ⚡ CPU utilization and throughput
-* 🔀 Context-switch tracking
-* 📥 CSV import/export
-* 📄 PDF report generation
-* 💾 Local simulation persistence
-* 🧪 Unit & integration tests
-
-### Tech
-
-`React 18` · `TypeScript` · `Vite` · `Tailwind CSS` · `D3.js` · `Zustand` · `Vitest` · `jsPDF`
-
-🔗 **Repository:**
-https://github.com/Quantum-Coded/os-scheduling-simulator
-
-🔗 **Live Demo:**
-https://os-scheduling-simulator-seven.vercel.app
-
----
-
-## 🏆 LeetTrack — Friends Daily LeetCode Tracker
-
-A competitive dashboard designed to turn individual LeetCode practice into a **group accountability and leaderboard system**.
-
-### Features
-
-* 📊 Daily leaderboard
-* 🔥 Streak tracking
-* 📅 Monthly performance analytics
-* 🟢 Easy / Medium / Hard breakdown
-* ⚡ On-demand LeetCode data refresh
-* 🔐 Admin-protected user management
-* 🌗 Dark / light mode
-* 📱 Responsive UI
-* 💰 No paid APIs
-
-The application pulls data through LeetCode's public GraphQL interface and calculates weighted scores based on problem difficulty.
-
-### Architecture
-
-```text
-React + Vite
-     │
-     │ GraphQL
-     ▼
-Apollo Client
-     │
-     ▼
-Express + Apollo Server
-     │
-     ├──────────────► LeetCode GraphQL API
-     │
-     ▼
-Supabase PostgreSQL
-```
-
-### Tech
-
-`React 19` · `Vite` · `Apollo Client` · `Node.js` · `Express` · `GraphQL` · `Supabase` · `PostgreSQL`
-
-🔗 **Repository:**
-https://github.com/Quantum-Coded/LeetTrack
-
----
-
-## 📈 Mutual Fund Analytics
-
-A web-based analytics platform focused on making mutual-fund performance analysis more transparent through mathematical and quantitative metrics.
-
-Instead of relying only on headline returns, the application explores metrics such as:
-
-* Absolute Return
-* CAGR
-* XIRR
-* Information Ratio
-* Benchmark comparison
-* NAV normalization
-* AUM / holdings data
-
-### Tech
-
-`React` · `Vite` · `Material UI` · `Recharts` · `Framer Motion` · `FastAPI` · `Pandas` · `pyxirr` · `yfinance`
-
-The project also includes an ETL/data-refresh workflow for collecting and caching financial data.
-
-🔗 **Repository:**
-https://github.com/Quantum-Coded/jimr-mf
-
----
-
-## 🌐 Full-Stack Blog Platform
-
-A full-stack web application exploring the architecture of a modern content platform.
-
-The project is structured into separate frontend and backend applications, providing experience with full-stack application organization, APIs, and database-backed workflows.
-
-🔗 **Repository:**
-https://github.com/Quantum-Coded/blog-platform
-
----
-
-# 🧩 Other Projects
-
-My repositories also include projects and experiments spanning:
-
-* Full-stack web development
-* Backend/API development
-* Data processing
-* Python development
-* JavaScript/TypeScript applications
-* Computer science coursework
-* Algorithms and problem solving
-* AI experimentation
-
-Rather than specializing in one framework, I enjoy moving between layers of a system — from **algorithms and data structures to APIs, databases, frontend interfaces, and AI orchestration**.
-
----
-
-# 🧠 Computer Science Foundation
-
-I actively work on strengthening the fundamentals behind the applications I build.
-
-### Algorithms & Problem Solving
-
-* Data Structures
-* Dynamic Programming
-* Binary Search
-* Graph Algorithms
-* Greedy Algorithms
-* Recursion & Backtracking
-* Sliding Window
-* Two Pointers
-* Trees & Graphs
-* Linked Lists
-* Stacks & Queues
-* Complexity Analysis
-
-### Systems
-
-* Operating Systems
-* CPU Scheduling
-* Processes & Threads
-* Memory Management
-* Synchronization
-* File Systems
-* Networking fundamentals
-
-### Software Engineering
-
-* REST API design
-* GraphQL
-* Database design
-* Authentication
-* State management
-* Testing
-* Modular architecture
-* Frontend/backend separation
-* Data pipelines
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quantum-Coded&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum-Coded&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Quantum-Coded&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🧮 DSA × Engineering × AI
-
-I enjoy working at the intersection of three areas:
-
-```text
-                    ┌─────────────────────┐
-                    │    SOFTWARE         │
-                    │    ENGINEERING      │
-                    └──────────┬──────────┘
-                               │
-                  ┌────────────┼────────────┐
-                  │            │            │
-                  ▼            ▼            ▼
-             Algorithms      AI/ML        Systems
-                  │            │            │
-                  └────────────┼────────────┘
-                               │
-                               ▼
-                    Real-World Applications
-```
-
-The goal isn't just to learn technologies individually, but to understand how they can be combined to build useful systems.
-
----
-
-# 🔭 What I'm Looking For
-
-I'm particularly interested in opportunities involving:
-
-* Software Engineering
-* AI/ML Engineering
-* Generative AI
-* Multi-Agent Systems
-* Backend Engineering
-* Full-Stack Development
-* Data / Analytics Engineering
-* Quantitative applications
-* Research-oriented engineering
-
-I'm especially interested in projects where there is room to **experiment, investigate, and build rather than simply implement predefined features**.
-
----
-
-# 📚 Currently Learning
-
-```text
-├── Advanced Data Structures & Algorithms
-├── System Design
-├── Generative AI
-├── LLM Architecture
-├── Multi-Agent Systems
-├── LangGraph
-├── Data Engineering
-├── Quantitative Analytics
-└── Research-oriented Computing
-```
-
----
-
-# 📫 Contact
-
-If you'd like to discuss a project, research idea, collaboration, internship, or just an interesting technical problem:
-
-<p align="center">
-  <a href="mailto:dev.gaglani1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dev.gaglani1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Quantum-Coded">
-    <img src="https://img.shields.io/badge/GitHub-Quantum--Coded-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Always building, experimenting, and iterating."</i>
-</p>
-
-<p align="center">
-  <sub>Built with curiosity, code, and an unreasonable number of Git commits.</sub>
-</p>
+<sub>Build → Understand → Experiment → Iterate</sub>
